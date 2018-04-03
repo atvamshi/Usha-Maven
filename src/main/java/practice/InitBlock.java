@@ -4,6 +4,9 @@ package practice;
     {
         System.out.println("This is an Initializer block");
     }
+     {
+         System.out.println("block 2");
+     }
 
      InitBlock(){
          System.out.println("Im a constructor");
