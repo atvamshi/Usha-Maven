@@ -2,10 +2,10 @@ package practice;
 
  public class InitBlock {
     {
-        System.out.println("This is an Initializer block");
+        System.out.println("This is an Initializer block1");
     }
      {
-         System.out.println("block 2");
+         System.out.println("block two");
      }
 
      InitBlock(){
